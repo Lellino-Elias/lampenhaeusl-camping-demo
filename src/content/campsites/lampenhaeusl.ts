@@ -16,7 +16,6 @@ const lampenhaeusl: CampsiteConfig = {
   brandKind: "Hotel · Restaurant · Camping",
   regionLong: "Bruck · Fusch · Großglockner · Salzburger Land · Österreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Camping am Tor zum Nationalpark Hohe Tauern",
@@ -219,7 +218,6 @@ const lampenhaeusl: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.199968, lng: 12.855579 },
     tel: "+43 6546 215 0",
     telHref: "tel:+4365462150",
     mail: "hotel@lampenhaeusl.at",
