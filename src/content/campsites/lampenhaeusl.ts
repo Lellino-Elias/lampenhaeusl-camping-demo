@@ -104,7 +104,7 @@ const lampenhaeusl: CampsiteConfig = {
       {
         title: "Restaurant & Gastgarten",
         text: "Frisch gekocht im à-la-carte-Restaurant, gemütlich im Gastgarten unter Kastanienbäumen — der Minimarkt liegt rund 150 m entfernt.",
-        image: { src: `${IMG}/gallery-8e6b42800a.webp`, alt: "Familie beim Mittagessen im österreichischen Gastgarten" },
+        image: { src: `${IMG}/amenity-ced9d5058f.webp`, alt: "Gemütliche Restaurantstube im Hotel Lampenhäusl mit offenem Kamin" },
       },
     ],
   },
@@ -116,13 +116,13 @@ const lampenhaeusl: CampsiteConfig = {
     items: [
       {
         name: "Mobile Home",
-        kind: "Bungalow für bis zu 6 Personen",
+        kind: "Bungalow für bis zu 4 Personen",
         text:
-          "40 m² mit Wohnküche, Eltern- und zwei Kinderzimmern, Bad mit Dusche und getrenntem WC. Davor warten Sitzecke, Liegestühle und ein gemauerter Grill.",
+          "40 m² mit Wohnküche (Ausklappcouch für 2 weitere Gäste), Eltern- und zwei Kinderzimmern, Bad mit Dusche und getrenntem WC. Davor warten Sitzecke, Liegestühle und ein gemauerter Grill.",
         image: { src: `${IMG}/gallery-0c35279a0a.webp`, alt: "Mobile Home am Camping Lampenhäusl" },
         priceFrom: 89,
         features: [
-          "40 m² für bis zu 6 Personen",
+          "40 m² für bis zu 4 Personen",
           "Wohnküche mit Backofen & Kühlschrank",
           "Eltern- und zwei Kinderzimmer",
           "Bad mit Dusche, WC getrennt",
@@ -206,7 +206,7 @@ const lampenhaeusl: CampsiteConfig = {
       "Sag uns Zeitraum und Personenzahl — Familie Nindl meldet sich persönlich mit Verfügbarkeit und Angebot.",
     pricesArePlaceholder: false,
     priceNote:
-      "Mobile Home, Preis pro Nacht inkl. Steuer (bis 6 Personen) — zzgl. Ortstaxe & Mobilitätsabgabe € 2 pro Person/Nacht ab 15 J., Endreinigung € 35. Stellplatzpreise auf Anfrage. Reservierung ab 3 Nächten mit Anzahlung.",
+      "Mobile Home, Preis pro Nacht inkl. Steuer (bis 4 Personen; mit Ausklappcouch bis zu 6 möglich) — zzgl. Ortstaxe & Mobilitätsabgabe € 2 pro Person/Nacht ab 15 J., Endreinigung € 35. Stellplatzpreise auf Anfrage. Reservierung ab 3 Nächten mit Anzahlung.",
     highlight: {
       title: "Hotelkomfort nebenan",
       text: "Restaurant und Spielplatz des Hotels nutzt du als Campinggast einfach mit, die Saunalandschaft gegen Gebühr (Anmeldung an der Rezeption).",
