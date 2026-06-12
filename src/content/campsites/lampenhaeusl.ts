@@ -218,6 +218,7 @@ const lampenhaeusl: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.223974, lng: 12.827061 },
     tel: "+43 6546 215 0",
     telHref: "tel:+4365462150",
     mail: "hotel@lampenhaeusl.at",
