@@ -31,17 +31,17 @@ const lampenhaeusl: CampsiteConfig = {
   pillars: [
     {
       title: "Am Tor zum Nationalpark",
-      text: "Eingebettet ins Fuscher Tal, direkt an der Fuscher Ache und am Beginn der Glocknerstraße — die Hohen Tauern starten vor dem Vorzelt.",
+      text: "Eingebettet ins Fuscher Tal, direkt an der Fuscher Ache — die Hohen Tauern starten vor dem Vorzelt.",
       image: { src: `${IMG}/gallery-cd90d912aa.webp`, alt: "Campingplatz Lampenhäusl an der Fuscher Ache im Fuscher Tal" },
     },
     {
       title: "Klein und alpin",
-      text: "Auf rund 2.000 m² teilen Familie Nindl und ihr Team 24 Stellplätze mit ihren Gästen — überschaubar, ruhig und mitten in der Bergwelt.",
+      text: "24 Stellplätze auf rund 2.000 m² — überschaubar, ruhig, familiär geführt und mitten in der Bergwelt.",
       image: { src: `${IMG}/gallery-d65191819d.webp`, alt: "Wohnwagen mit Vorzelt am Camping Lampenhäusl vor den Hohen Tauern" },
     },
     {
       title: "Hotelkomfort nebenan",
-      text: "Als Campinggast nutzt du Restaurant und Spielplatz des Hotels gleich nebenan einfach mit — die Saunalandschaft gegen Gebühr (Anmeldung & Bezahlung an der Rezeption).",
+      text: "Als Campinggast nutzt du Restaurant und Spielplatz mit; die Saunalandschaft steht gegen Gebühr offen.",
       image: { src: `${IMG}/amenity-e5849b1c8c.webp`, alt: "Saunalandschaft im Hotel Lampenhäusl" },
     },
   ],
@@ -97,7 +97,7 @@ const lampenhaeusl: CampsiteConfig = {
       },
       {
         title: "Spielplatz für die Kleinen",
-        text: "Den Spielplatz des Hotels nutzen unsere Campinggäste frei mit; die Saunalandschaft gegen Gebühr — Anmeldung und Bezahlung an der Rezeption.",
+        text: "Den Spielplatz des Hotels nutzen Campinggäste gratis mit; die Saunalandschaft steht gegen Gebühr offen.",
         image: { src: `${IMG}/gallery-da82968efe.webp`, alt: "Kinder am Spielplatz beim Lampenhäusl" },
       },
       {
@@ -117,7 +117,7 @@ const lampenhaeusl: CampsiteConfig = {
         name: "Mobile Home",
         kind: "Bungalow für bis zu 4 Personen",
         text:
-          "40 m² mit Wohnküche (Ausklappcouch für 2 weitere Gäste), Eltern- und zwei Kinderzimmern, Bad mit Dusche und getrenntem WC. Davor warten Sitzecke, Liegestühle und ein gemauerter Grill.",
+          "40 m² mit Wohnküche, Eltern- und zwei Kinderzimmern, Bad mit Dusche und WC — davor Sitzecke, Liegestühle und gemauerter Grill.",
         image: { src: `${IMG}/gallery-0c35279a0a.webp`, alt: "Mobile Home am Camping Lampenhäusl" },
         priceFrom: 89,
         features: [
@@ -144,7 +144,7 @@ const lampenhaeusl: CampsiteConfig = {
       },
       {
         title: "Rennrad & Mountainbike",
-        text: "Kehre für Kehre die Großglockner Hochalpenstraße hinauf oder gemütlich am Tauernradweg — beim „Glocknerkönig“ wird daraus jedes Jahr ein Event.",
+        text: “Kehre für Kehre die Großglockner Hochalpenstraße hinauf — beim „Glocknerkönig” wird daraus jedes Jahr ein Event.”,
         image: { src: `${IMG}/activity-0e9600df55.webp`, alt: "Rennradfahrer auf der Großglockner Hochalpenstraße" },
       },
       {
@@ -154,12 +154,12 @@ const lampenhaeusl: CampsiteConfig = {
       },
       {
         title: "Motorradtour Großglockner",
-        text: "Fusch liegt am Beginn einer der schönsten Passstraßen der Ostalpen — 48 Kilometer und 36 nummerierte Kehren bis zur Franz-Josefs-Höhe.",
+        text: "Fusch liegt am Beginn einer der schönsten Passstraßen der Ostalpen — 48 Kilometer bis zur Franz-Josefs-Höhe.",
         image: { src: `${IMG}/activity-a4438a2daf.webp`, alt: "Großglockner Hochalpenstraße mit ihren Kehren" },
       },
       {
         title: "Almhütten & Einkehr",
-        text: "Viele Touren führen zu bewirtschafteten Almen mitten im Nationalpark — auf der Ponyhofalm oder im Käfertal wartet die verdiente Jause.",
+        text: "Viele Touren führen zu bewirtschafteten Almen — auf der Ponyhofalm oder im Käfertal wartet die verdiente Jause.",
         image: { src: `${IMG}/gallery-2dbf702ffe.webp`, alt: "Bewirtschaftete Alm im Nationalpark Hohe Tauern bei Fusch" },
       },
     ],
