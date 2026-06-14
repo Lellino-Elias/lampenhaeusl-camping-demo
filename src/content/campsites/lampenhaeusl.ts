@@ -83,7 +83,7 @@ const lampenhaeusl: CampsiteConfig = {
       {
         title: "24 Stellplätze auf der Wiese",
         text: "Ebene Plätze mit Stromanschluss für Wohnwagen, Wohnmobil und Zelt — duschen kannst du bis zum Abend deiner Abreise.",
-        image: { src: `${IMG}/gallery-5dfdc80a4c.webp`, alt: "Stellplätze mit Wohnmobil und Zelten am Camping Lampenhäusl" },
+        image: { src: `${IMG}/hero-9919fc715d.webp`, alt: "Zelte und Wohnwagen auf der Wiese am Camping Lampenhäusl vor den Hohen Tauern" },
       },
       {
         title: "Zelten unter Bäumen",
@@ -93,7 +93,7 @@ const lampenhaeusl: CampsiteConfig = {
       {
         title: "Wohnwagen & Wohnmobil",
         text: "Genug Platz für Wohnwagen und Reisemobile, dazu eine versperrbare Radgarage für deine Bikes.",
-        image: { src: `${IMG}/hero-9919fc715d.webp`, alt: "Zelte und Wohnwagen am Camping Lampenhäusl vor den Bergen" },
+        image: { src: `${IMG}/gallery-5dfdc80a4c.webp`, alt: "Stellplätze mit Wohnmobil und Zelten am Camping Lampenhäusl" },
       },
       {
         title: "Spielplatz für die Kleinen",
