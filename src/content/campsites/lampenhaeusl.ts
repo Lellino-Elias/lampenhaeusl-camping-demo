@@ -144,7 +144,7 @@ const lampenhaeusl: CampsiteConfig = {
       },
       {
         title: "Rennrad & Mountainbike",
-        text: “Kehre für Kehre die Großglockner Hochalpenstraße hinauf — beim „Glocknerkönig” wird daraus jedes Jahr ein Event.”,
+        text: "Kehre für Kehre die Großglockner Hochalpenstraße hinauf — beim „Glocknerkönig“ wird daraus jedes Jahr ein Event.",
         image: { src: `${IMG}/activity-0e9600df55.webp`, alt: "Rennradfahrer auf der Großglockner Hochalpenstraße" },
       },
       {
